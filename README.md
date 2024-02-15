@@ -14,9 +14,9 @@ python3 setup.py
 
 ## Model Architecture
 ### Contrastive learning 
-![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
+![alt text for screen readers](Images/Screenshot_CT.png "Contrastive learning architecture").
 ### End-to-end classification
-![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
+![alt text for screen readers](Images/Screenshot_n2n.png  "End-to-end classification architecture").
 ## Evaluation
 
 
