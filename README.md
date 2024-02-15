@@ -24,7 +24,7 @@ The end-to-end model takes a pair of sky images and make a prediction whether a 
 
 ## Implementation
 We provide two approaches of implmentations. First, we provides test.py and test.ipynb to show how our model make a prediction on 64*64 patches. Moreover, for full_img_test.py, we demonstrate how to use our model for .fits images. The latter approach includes both patch extractor and classifier heads to complete the whole process.
-
+![alt text for screen readers](Images/Screenshot_sliding_windows.png  "Sliding windows for patch extraction").
 
 
 ## Acknowledgement
