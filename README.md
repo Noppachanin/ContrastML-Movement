@@ -1,5 +1,5 @@
 # Asteroid-Detection
-This repository includes our pretrained models with the demonstration 
+This repository includes our pretrained models with the demonstration.
 
 
 ## Installation
@@ -13,11 +13,19 @@ python3 setup.py
 ```
 
 ## Model Architecture
+Our model architecture includes an additional feature from the contrastive learning with the high-level features from the end-to-end model.
+
 ### Contrastive learning 
+This learning method learns to extract the contrast between an input and represent them as a contrastive feature map which are learnt through the similarity classification.
 ![alt text for screen readers](Images/Screenshot_CT.png "Contrastive learning architecture").
 ### End-to-end classification
+The end-to-end model takes a pair of sky images and make a prediction whether a moving object is exists.
 ![alt text for screen readers](Images/Screenshot_n2n.png  "End-to-end classification architecture").
-## Evaluation
+
+## Implementation
+We provide two approaches of implmentations. First, we provides test.py and test.ipynb to show how our model make a prediction on 64*64 patches. Moreover, for full_img_test.py, we demonstrate how to use our model for .fits images. The latter approach includes both patch extractor and classifier heads to complete the whole process.
+
 
 
 ## Acknowledgement
+We would like to thank to National Astronomical Research Institute of Thailand(NARIT) and The Gravitational-wave Optical Transient Observer (GOTO) as the data provider. Moreover, Researchers from the institutes also supported the comparable results from Astrometrica.
