@@ -13,14 +13,14 @@ python3 setup.py
 ```
 
 ## Training Process
-
+![alt text for screen readers](Images/Overall_Process.png  "Training Process").
 
 ## Model Architecture
 Our model architecture includes an additional feature from the contrastive learning with the inductive features from the end-to-end model.
-
+![alt text for screen readers](Images/CTN2Nmodel.png  "End-to-end classification with contrastive feature architecture").
 
 ## Performance
-
+![alt text for screen readers](Images/Performance_table.png  "Performance comparison on test set").
 
 <!-- 
 ### Contrastive learning 
