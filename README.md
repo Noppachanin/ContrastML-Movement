@@ -1,4 +1,5 @@
 # Asteroid-Detection
+**\* This repository will be fully availble after publication.**
 This repository includes our pretrained models with the demonstration.
 
 
