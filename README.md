@@ -1,8 +1,10 @@
-# Asteroid-Detection
+# Updates
 **\* This repository will be fully available after publication.**
 
 This repository includes our pretrained models with the demonstration.
 
+**October 24, 2024**
+Our paper is under review.
 
 ## Installation
 - To setup the environment
