@@ -7,8 +7,9 @@ This repository includes our pretrained models with the demonstration.
 Our paper was under review.
 
 **December 27, 2024**
-Our paper was published in IOP science
-[Leveraging Movement Representation from Contrastive Learning for Asteroid Detection]([https://www.genome.gov/](https://iopscience.iop.org/article/10.1088/1538-3873/ad8c83))
+Our paper was published in IOP science.
+
+[Leveraging Movement Representation from Contrastive Learning for Asteroid Detection](https://iopscience.iop.org/article/10.1088/1538-3873/ad8c83)
 
 ## Installation
 - To setup the environment
